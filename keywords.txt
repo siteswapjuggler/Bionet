@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For Bionet
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Bionet	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+update	KEYWORD2
+sendRun	KEYWORD2
+readByteVar	KEYWORD2
+readUIntVar	KEYWORD2
+writeByteVar	KEYWORD2
+writeUIntVar	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+WRITE_OK	LITERAL1
+WRITE_BIT	LITERAL1
+BIONET_INTERFRAME	LITERAL1
+BIONET_FRAMERATE	LITERAL1
